@@ -31,14 +31,6 @@
     </div>
 
 
- 	<form action="https://api.web3forms.com/submit" method="POST">
- 	  <input type="hidden" name="access_key" value="24c8a47f-f440-4a16-b5c8-e2e3679a331b">
- 	  <input type="text" name="name" required>
- 	  <input type="email" name="email" required>
- 	  <textarea name="message" required></textarea>
- 	  <button type="submit">Submit</button>
- 	</form>
- 	
 </template>
 
 <script setup>
