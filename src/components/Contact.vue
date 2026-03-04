@@ -88,7 +88,7 @@
 			}
 			else{
 				isLoading.value = false;
-				noty.error("Failed to send message");
+				notyf.error("Failed to send message");
 			}
 		}
 		catch(error){
@@ -165,5 +165,6 @@
 
 
 </script>
+
 
 
