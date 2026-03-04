@@ -24,7 +24,12 @@
                         </div>
                         <button type="submit" class="submit-btn pl-5 pr-5">Submit</button>
                     </div>
+					<!-- recaptcha checkbox -->
+                    <div class="d-flex justify-content-end mt-2">
+                        <div ref="recaptchaContainer"></div>
+                    </div>
                 </form>
+				
                 
             </div>
         </div>
@@ -165,6 +170,7 @@
 
 
 </script>
+
 
 
 
